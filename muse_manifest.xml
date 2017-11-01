@@ -1,0 +1,17 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ico4.pro" resolutions="1x" timestamp="1509496219082">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4180030890" ref="index"/>
+    <file name="untitled-2.css" crc="4193191577" ref="untitled-2"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="17924269" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="144853533" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:untitled-2"/>
+    <file name="require.js" crc="3861931657" ref="index:untitled-2"/>
+  </folder>
+  <file name="index.html" crc="438607284" seo="true" mt="1509496143117" redirect="true"/>
+  <file name="untitled-2.html" crc="4099344083" seo="true" mt="1509496071761" redirect="false"/>
+</manifest>
